@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Zoo\obj\Debug\net5.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Zoo\obj\Debug\net5.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Zoo\obj\Debug\net5.0\Zoo.AssemblyInfo.cs
+C:\Users\HP\source\repos\Zoo\obj\Debug\net5.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Zoo\bin\Debug\net5.0\Zoo.exe
+C:\Users\HP\source\repos\Zoo\bin\Debug\net5.0\Zoo.deps.json
+C:\Users\HP\source\repos\Zoo\bin\Debug\net5.0\Zoo.runtimeconfig.json
+C:\Users\HP\source\repos\Zoo\bin\Debug\net5.0\Zoo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Zoo\bin\Debug\net5.0\Zoo.dll
+C:\Users\HP\source\repos\Zoo\bin\Debug\net5.0\ref\Zoo.dll
+C:\Users\HP\source\repos\Zoo\bin\Debug\net5.0\Zoo.pdb
+C:\Users\HP\source\repos\Zoo\obj\Debug\net5.0\Zoo.dll
+C:\Users\HP\source\repos\Zoo\obj\Debug\net5.0\ref\Zoo.dll
+C:\Users\HP\source\repos\Zoo\obj\Debug\net5.0\Zoo.pdb
+C:\Users\HP\source\repos\Zoo\obj\Debug\net5.0\Zoo.genruntimeconfig.cache
+C:\Users\HP\source\repos\Zoo\obj\Debug\net5.0\Zoo.csproj.AssemblyReference.cache
